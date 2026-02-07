@@ -1,0 +1,8 @@
+
+{
+  "name": "Salman Book Center - Modern Library Management",
+  "description": "A comprehensive, AI-powered library management system for Salman Book Center, featuring inventory tracking, sales analytics, and automated financial reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
